@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 1
 description: >
-  Coding에 관련된 내 자료들.  
+  Coding을 위한 자료.
 ---

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: EnvOps
-slug: envOps
-category: envOps
+title: ML
+slug: ml
+category: Resource
 menu: false
 order: 1
 ---
