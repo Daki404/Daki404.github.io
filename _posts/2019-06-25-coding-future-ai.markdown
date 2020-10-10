@@ -2,7 +2,7 @@
 layout: post
 title:  "종합 예술영역 Data Science와 딥러닝에 대한 소고(小考)"
 subtitle:   "A Study on Data Science and Deep Learning, which is a fusion of diverse disciplines"
-categories: think
+categories: Coding
 tags: think ai ml dl data science future 
 comments: true
 header-img: img/think/2019-06-25-think-future-ai-1.png
