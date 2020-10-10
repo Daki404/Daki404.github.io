@@ -1,14 +1,14 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-theorydb:
-  name:              min
-  email:             theorydb@gmail.com
+Daki's DB:
+  name:              Daki
+  email:             daki403.1@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Data science enthusiast and addict :)
+    Programming and Consumption addict :)
 
   # This photo will be used in the about section
   picture:
