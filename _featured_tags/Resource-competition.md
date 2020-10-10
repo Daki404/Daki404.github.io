@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Competition
 slug: competition
-category: dev
+category: Resource
 menu: false
 order: 4
 ---
