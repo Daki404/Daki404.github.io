@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Think
-slug: think
-category: think
+title: Coding
+slug: coding
+category: coding
 menu: false
 order: 1
 ---
