@@ -2,7 +2,7 @@
 layout: tag-blog
 title: PaperToMath
 slug: papertomath
-category: dev
+category: Resource
 menu: false
 order: 3
 ---
