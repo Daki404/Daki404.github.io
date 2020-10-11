@@ -22,7 +22,7 @@ Daki's DB:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        cantouchmin
+    # facebook:        cantouchmin
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
@@ -32,7 +32,7 @@ Daki's DB:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       'seo_jangjun'
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -46,7 +46,7 @@ Daki's DB:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          theorydb
+    github:          Daki404
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -57,8 +57,8 @@ Daki's DB:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:theorydb@gmail.com
-    rss:             https://theorydb.github.io/feed.xml
+    email:           mailto:daki403.1@gmail.com
+    rss:             https://Daki404.github.io/feed.xml
 
 # Another author
 mdo:

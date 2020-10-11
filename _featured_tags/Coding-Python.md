@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Coding
-slug: coding
-category: coding
+title: Python
+slug: Python
+category: Coding
 menu: false
 order: 1
 ---
