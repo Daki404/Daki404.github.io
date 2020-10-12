@@ -6,6 +6,7 @@ categories: Coding
 tags: C
 comments: true
 header-img: img/think/2019-06-25-think-future-ai-1.png
+comments: true
 ---
 
 ## 개요
