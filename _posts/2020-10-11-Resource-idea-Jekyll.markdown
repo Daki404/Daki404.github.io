@@ -5,6 +5,7 @@ subtitle:   "How to manage this blog"
 categories: Resource
 tags: idea
 comments: true
+published: false
 header-img: img/Resource/idea/jekyll.png
 ---
 ### <center>Jekyll - "간단한 블로그 인식 정적 사이트 생성기"</center>
